@@ -1,0 +1,39 @@
+Title {
+    background-color: aliceblue;
+    height: 34;
+    color: rgb(0, 13, 9)
+    ;
+}
+
+.body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333333;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Estilo para los títulos h1 */
+.h1 {
+  color: #1b79d7;
+  font-size: 2em;
+  margin-bottom: 16px;
+}
+
+/* Estilo para los párrafos */
+.p {
+  line-height: 1.6;
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+/* Estilo para los enlaces */
+.a {
+  color: #5a5b5c;
+  text-decoration: none;
+}
+
+.a:hover {
+    color:red;
+  text-decoration: underline;
+}
